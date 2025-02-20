@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposDeDados\\TiposDeDados.csproj",
+      "projectUniqueName": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\TiposDeDados\\TiposDeDados.csproj",
       "projectName": "TiposDeDados",
-      "projectPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposDeDados\\TiposDeDados.csproj",
+      "projectPath": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\TiposDeDados\\TiposDeDados.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposDeDados\\obj\\",
+      "outputPath": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\TiposDeDados\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

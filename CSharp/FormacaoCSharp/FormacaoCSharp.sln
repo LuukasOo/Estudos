@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.12.35707.178 d17.12
+VisualStudioVersion = 17.12.35707.178
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposDeDados", "TiposDeDados\TiposDeDados.csproj", "{DBA3A3AB-4208-439D-9430-E5C315F74184}"
 EndProject
@@ -12,6 +12,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposAnulaveis", "TiposAnulaveis\TiposAnulaveis.csproj", "{1886575F-441B-4409-8755-D0889BC4CC3E}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UsandoDataHora", "UsandoDataHora\UsandoDataHora.csproj", "{B519186D-AA3F-4310-B93A-BD5C4684242D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Constantes", "Constantes\Constantes.csproj", "{A5DC0D64-C892-410F-A0A6-01C5D20EA7B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{B519186D-AA3F-4310-B93A-BD5C4684242D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B519186D-AA3F-4310-B93A-BD5C4684242D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B519186D-AA3F-4310-B93A-BD5C4684242D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A5DC0D64-C892-410F-A0A6-01C5D20EA7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A5DC0D64-C892-410F-A0A6-01C5D20EA7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A5DC0D64-C892-410F-A0A6-01C5D20EA7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A5DC0D64-C892-410F-A0A6-01C5D20EA7B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

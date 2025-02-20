@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\ConversaoDeTipos\\ConversaoDeTipos.csproj",
+      "projectUniqueName": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\ConversaoDeTipos\\ConversaoDeTipos.csproj",
       "projectName": "ConversaoDeTipos",
-      "projectPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\ConversaoDeTipos\\ConversaoDeTipos.csproj",
+      "projectPath": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\ConversaoDeTipos\\ConversaoDeTipos.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\ConversaoDeTipos\\obj\\",
+      "outputPath": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\ConversaoDeTipos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

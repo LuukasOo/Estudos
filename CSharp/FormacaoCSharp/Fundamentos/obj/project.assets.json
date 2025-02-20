@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\Fundamentos\\Fundamentos.csproj",
+      "projectUniqueName": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\Fundamentos\\Fundamentos.csproj",
       "projectName": "Fundamentos",
-      "projectPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\Fundamentos\\Fundamentos.csproj",
+      "projectPath": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\Fundamentos\\Fundamentos.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\Fundamentos\\obj\\",
+      "outputPath": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\Fundamentos\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

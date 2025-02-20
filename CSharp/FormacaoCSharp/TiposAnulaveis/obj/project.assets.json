@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposAnulaveis\\TiposAnulaveis.csproj",
+      "projectUniqueName": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\TiposAnulaveis\\TiposAnulaveis.csproj",
       "projectName": "TiposAnulaveis",
-      "projectPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposAnulaveis\\TiposAnulaveis.csproj",
+      "projectPath": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\TiposAnulaveis\\TiposAnulaveis.csproj",
       "packagesPath": "C:\\Users\\Lucas\\.nuget\\packages\\",
-      "outputPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposAnulaveis\\obj\\",
+      "outputPath": "C:\\Projetos\\DevLucas\\Estudos\\CSharp\\FormacaoCSharp\\TiposAnulaveis\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
