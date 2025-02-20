@@ -1,0 +1,14 @@
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.exe
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.deps.json
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.runtimeconfig.json
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.dll
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\bin\Debug\net8.0\ConversaoDeTipos.pdb
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.AssemblyInfoInputs.cache
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.AssemblyInfo.cs
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.csproj.CoreCompileInputs.cache
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.dll
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\refint\ConversaoDeTipos.dll
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.pdb
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\ConversaoDeTipos.genruntimeconfig.cache
+C:\Projetos\DevLucas\CSharp\FormacaoCSharp\ConversaoDeTipos\obj\Debug\net8.0\ref\ConversaoDeTipos.dll

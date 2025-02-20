@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1886575F-441B-4409-8755-D0889BC4CC3E}|TiposAnulaveis\\TiposAnulaveis.csproj|c:\\projetos\\devlucas\\csharp\\formacaocsharp\\tiposanulaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1886575F-441B-4409-8755-D0889BC4CC3E}|TiposAnulaveis\\TiposAnulaveis.csproj|solutionrelative:tiposanulaveis\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF07D26-F32C-47B3-BF95-81135A9B180F}|Fundamentos\\Fundamentos.csproj|c:\\projetos\\devlucas\\csharp\\formacaocsharp\\fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF07D26-F32C-47B3-BF95-81135A9B180F}|Fundamentos\\Fundamentos.csproj|solutionrelative:fundamentos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF07D26-F32C-47B3-BF95-81135A9B180F}|Fundamentos\\Fundamentos.csproj|c:\\projetos\\devlucas\\csharp\\formacaocsharp\\fundamentos\\anotacoes.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{1CF07D26-F32C-47B3-BF95-81135A9B180F}|Fundamentos\\Fundamentos.csproj|solutionrelative:fundamentos\\anotacoes.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{426EC3E9-5F5D-433F-9CA1-86A069240F03}|ConversaoDeTipos\\ConversaoDeTipos.csproj|c:\\projetos\\devlucas\\csharp\\formacaocsharp\\conversaodetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{426EC3E9-5F5D-433F-9CA1-86A069240F03}|ConversaoDeTipos\\ConversaoDeTipos.csproj|solutionrelative:conversaodetipos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DBA3A3AB-4208-439D-9430-E5C315F74184}|TiposDeDados\\TiposDeDados.csproj|c:\\projetos\\devlucas\\csharp\\formacaocsharp\\tiposdedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DBA3A3AB-4208-439D-9430-E5C315F74184}|TiposDeDados\\TiposDeDados.csproj|solutionrelative:tiposdedados\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposAnulaveis\\Program.cs",
+              "RelativeDocumentMoniker": "TiposAnulaveis\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposAnulaveis\\Program.cs",
+              "RelativeToolTip": "TiposAnulaveis\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:43:43.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Anotacoes.txt",
+              "DocumentMoniker": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\Fundamentos\\Anotacoes.txt",
+              "RelativeDocumentMoniker": "Fundamentos\\Anotacoes.txt",
+              "ToolTip": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\Fundamentos\\Anotacoes.txt",
+              "RelativeToolTip": "Fundamentos\\Anotacoes.txt",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAB4AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2025-02-19T23:41:04.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\Fundamentos\\Program.cs",
+              "RelativeDocumentMoniker": "Fundamentos\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\Fundamentos\\Program.cs",
+              "RelativeToolTip": "Fundamentos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:41:03.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\ConversaoDeTipos\\Program.cs",
+              "RelativeDocumentMoniker": "ConversaoDeTipos\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\ConversaoDeTipos\\Program.cs",
+              "RelativeToolTip": "ConversaoDeTipos\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:39:18.896Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposDeDados\\Program.cs",
+              "RelativeDocumentMoniker": "TiposDeDados\\Program.cs",
+              "ToolTip": "C:\\Projetos\\DevLucas\\CSharp\\FormacaoCSharp\\TiposDeDados\\Program.cs",
+              "RelativeToolTip": "TiposDeDados\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-19T23:39:01.607Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

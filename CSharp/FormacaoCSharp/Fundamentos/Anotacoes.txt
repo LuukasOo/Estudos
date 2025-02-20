@@ -1,0 +1,87 @@
+﻿																 ----------------------------------------- ✨ Anotacoes Importantes linguagem C# ✨ --------------------------------------------
+
+
+
+ ----------------------------------------- ✪ SEPARAÇÃO ✪ -----------------------------------------------------  
+
+
+Tipo Object 
+	-Tipo base de todos os tipos em C# (incluindo tipos primitivos e definidos pelo usuário).
+	-Resolução de tipo em tempo de compilação (precisa de casting para operações específicas).
+	-Útil para armazenar valores genéricos e trabalhar com polimorfismo.
+
+
+Tipo Dynamic
+	-Tipo resolvido em tempo de execução (ignora verificação de tipo em tempo de compilação).
+	-Evita casting explícito, mas pode gerar erros em runtime se o tipo não suportar a operação.
+	-Útil para interoperabilidade com COM, JSON, XML dinâmico e Reflection.
+
+
+Resumo:
+	Use object quando precisar armazenar valores genéricos e quiser segurança em tempo de compilação.
+	Use dynamic quando precisar de flexibilidade e trabalhar com dados desconhecidos em tempo de compilação.
+
+----------------------------------------- ✪ SEPARAÇÃO ✪ -----------------------------------------------------  
+
+
+
+----------------------------------------- ✪ SEPARAÇÃO ✪ -----------------------------------------------------  
+
+
+Tipo StringBuilder
+	-Strings em C# são imutáveis (string cria uma nova instância a cada alteração).
+	-StringBuilder modifica o conteúdo sem criar novas instâncias, reduzindo consumo de memória e aumentando a performance.
+
+Casos de uso recomendados:
+	✅ Concatenação de múltiplas strings em loops grandes.
+	✅ Construção de strings dinâmicas (ex: geração de relatórios, logs, manipulação de XML/JSON).
+	✅ Situações onde o desempenho é crítico.
+
+	Quando não usar?
+	❌ Para poucas operações de concatenação (use string).
+	❌ Quando precisa de imutabilidade e segurança de thread.
+
+----------------------------------------- ✪ SEPARAÇÃO ✪ -----------------------------------------------------  
+
+
+
+----------------------------------------- ✪ SEPARAÇÃO ✪ -----------------------------------------------------  
+
+
+Propriedades somente Leitura: HasValue e Value
+	-são usadas para examinar e obyer um valor de uma varíavel de nullable type.
+	-HasValue: true se tiver valor e um false se não tiver um valor (null).
+	-Value exibe o valor atribuido
+
+Nomenclaturas e Identificadores
+	-Um identificador é o nome que voce atribui a um tipo (classe, interface, struc, record, delegate ou enum), membro, propriedade, variavel ou namespace.
+
+Utilize nomes significativos
+	✅ calculoImpostoICMS, valorTotalComDesconto, dataVencimentoFatura
+
+Não criar identificadores usando o mesmo nome mas alternando o uso de maiusculas e minusculas
+	❌ valorTotal, ValorTotal, Valor_Total, valortotal
+
+Regras Gerais para identificadores validos
+	✅ Devem começar com letras ou sublinhados(_)
+	✅ Podem usar caracteres unicode
+	❌ Não podem ser uma palavra reservada
+	❌ Não podem exceder 512 carcateres
+	❌ Não podem inicar com numero ou caracteres especiais
+	❌ Não podem conter espaços
+
+
+Conveções Universal C#
+	Camel Case -> valorDoDesconto (variaveis, parametros, campos internos privados).
+	Pascal Case -> ValorDoDesconto (classes, metodos, interfaces, propriedades).
+	Constantes -> PI, DESCONTO, MES, IMPOSTO, PESSOA_FISICA
+	Sublinhados -> _valorTotal (campos privadoes e somente leitura(Camel Case)).
+
+Formatação usando sequencias Escapes
+https://learn.microsoft.com/pt-br/cpp/c-language/escape-sequences?view=msvc-170
+
+Conversão implicitas possiveis C#
+https://learn.microsoft.com/en-us/dotnet/csharp/language-reference/builtin-types/numeric-conversions
+
+----------------------------------------- ✪ SEPARAÇÃO ✪ -----------------------------------------------------  
+
