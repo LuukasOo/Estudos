@@ -49,7 +49,7 @@ Casos de uso recomendados:
 
 
 Propriedades somente Leitura: HasValue e Value
-	-são usadas para examinar e obyer um valor de uma varíavel de nullable type.
+	-são usadas para examinar e obter um valor de uma varíavel de nullable type.
 	-HasValue: true se tiver valor e um false se não tiver um valor (null).
 	-Value exibe o valor atribuido
 

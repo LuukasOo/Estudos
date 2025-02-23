@@ -44,8 +44,22 @@ x++; //Incrementa 1
 //++X pré incremento
 x--; //Decrementa 1
 
- 
+Console.WriteLine("\n### Nullabes reference types ###");
+string? nomeNullable = null; 
+Console.WriteLine(nomeNullable?.ToUpper()); //se nome for null valor final será null sem lançar excecao
 
+
+Console.WriteLine("\n### Operadores Uniarios (+, -) ###");
+//- produz o valor negativo do operando
+int valorUniarioPositivo = 1;
+int resultPositivo;
+resultPositivo = +valorUniarioPositivo;
+Console.WriteLine(resultPositivo);
+
+int valorUniarioNegativo= 100;
+int resultNegativo;
+resultNegativo = -valorUniarioNegativo;
+Console.WriteLine(resultNegativo);
 
 
 
